@@ -24,6 +24,7 @@ set consists of the records generated in each sales transaction. This means
 The table is unduplicated. In other words, a person with certain demographic characteristics
 the user may have made more than one purchase.
 
+# Variables
 * Price: Customer's spending amount
 * Source: The type of device the customer is connecting to
 * Sex: Gender of the client
