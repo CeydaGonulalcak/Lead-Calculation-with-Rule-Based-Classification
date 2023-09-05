@@ -1,5 +1,5 @@
 # Lead-Calculation-with-Rule-Based-Classification
-
+This project aims to analyze the Persona.csv dataset, which contains the prices of the products sold by an international game company and some demographic information of the users who buy these products.
 
 # Business Problem
 
@@ -19,7 +19,7 @@ is requested.
 # Dataset Story
 
 The Persona.csv dataset contains the prices of products sold by an international gaming company and the prices of these products.
-contains some demographic information of the users who purchased the products. Data
+Contains some demographic information of the users who purchased the products. Data
 set consists of the records generated in each sales transaction. This means
 The table is unduplicated. In other words, a person with certain demographic characteristics
 the user may have made more than one purchase.
